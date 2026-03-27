@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/VindelJ13/api_mp.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Javiergr99/medidas-proteccion-frontend
